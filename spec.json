@@ -1,0 +1,14 @@
+{
+  "hydra-research": {
+    "enabled": 1,
+    "hidden": false,
+    "description": "hydra-research",
+    "flake": "github:sk4zuzu-nix/hydra-research",
+    "checkinterval": 30,
+    "schedulingshares": 100,
+    "enableemail": false,
+    "emailoverride": "",
+    "keepnr": 1,
+    "type": 1
+  }
+}
